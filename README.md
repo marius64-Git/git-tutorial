@@ -1,1 +1,1 @@
-I used this repositori for testing git
+I used this repository for testing git
